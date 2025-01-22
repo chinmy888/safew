@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_webpack_project=self.webpackChunkmy_webpack_project||[]).push([[3201],{1417:(e,t,p)=>{var r=p(7774),o=p(6249),c=o(r("String.prototype.indexOf"));e.exports=function(e,t){var p=r(e,!!t);return"function"==typeof p&&c(e,".prototype.")>-1?o(p):p}}}]);
